@@ -1,0 +1,12 @@
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\bin\Debug\test_Korotnev_Evgeny.exe.config
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\bin\Debug\test_Korotnev_Evgeny.exe
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\bin\Debug\test_Korotnev_Evgeny.pdb
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.csprojAssemblyReference.cache
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.Form2.resources
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.Properties.Resources.resources
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.csproj.GenerateResource.cache
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.csproj.CoreCompileInputs.cache
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.exe
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.pdb
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.Form3.resources
+D:\test_Korotnev_Evgeny\test_Korotnev_Evgeny\test_Korotnev_Evgeny\obj\Debug\test_Korotnev_Evgeny.Users.resources
